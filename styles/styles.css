@@ -118,7 +118,8 @@ margin: 0 auto;
     margin-bottom: 10px;
 }
 
-.orjanization{
+.orjanization,
+.education_university{
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -160,13 +161,9 @@ margin: 0 auto;
 /* education styles */
 
 .education_university{
-    font-style: normal;
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 20px;
-    color: #FB6D3A;
     margin-bottom: 10px;
 }
+
 .education_management{
     font-style: normal;
     font-weight: 700;
