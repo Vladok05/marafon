@@ -160,8 +160,9 @@ margin: 0 auto;
 
 /* education styles */
 
-.education_university{
-    margin-bottom: 10px;
+.education_universityб,
+.education_management {
+    margin: 0, 0, 10px, 0;
 }
 
 .education_management{
@@ -170,7 +171,7 @@ margin: 0 auto;
     font-size: 14px;
     line-height: 17px;
     color: #000000;
-    margin-bottom: 10px;
+
 }
 
 /* sidebar styles */
