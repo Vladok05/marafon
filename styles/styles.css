@@ -161,12 +161,20 @@ margin: 0 auto;
 
 }
 
-.university{
+.education_university{
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
     color: #FB6D3A;
+}
+.education_management{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 10px;
 }
 
 /* sidebar styles */
