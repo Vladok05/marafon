@@ -126,6 +126,10 @@ margin: 0 auto;
     color: #FB6D3A;
 }
 
+.work_one_two{
+    padding-right: 220px;
+    }
+    
 .period{
     font-style: normal;
     font-weight: 400;
@@ -161,6 +165,9 @@ margin: 0 auto;
 }
 
 /* education styles */
+.education{
+    padding-bottom: 110px;
+}
 
 .education_university{
     font-style: normal;
