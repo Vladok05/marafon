@@ -157,10 +157,11 @@ margin: 0 auto;
     color: #595959;
 }
 
-/* education styles */
-.education { 
-
+.class_work_three{
+    margin-bottom: 45px;
 }
+
+/* education styles */
 
 .education_university{
     font-style: normal;
