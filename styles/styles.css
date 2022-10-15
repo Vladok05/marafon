@@ -126,10 +126,6 @@ margin: 0 auto;
     color: #FB6D3A;
 }
 
-.work_one_two{
-    margin-right: 220px;
-    }
-
 .period{
     font-style: normal;
     font-weight: 400;
@@ -150,6 +146,7 @@ margin: 0 auto;
 .work_list{
     padding: 0;
     margin-left: 15px;
+    margin: 0 0 10 0;
 }
 
 .work_list_item{
@@ -160,14 +157,7 @@ margin: 0 auto;
     color: #595959;
 }
 
-.class_work_three{
-    margin-bottom: 45px;
-}
-
 /* education styles */
-.education{
-    margin-bottom: 110px;
-}
 
 .education_university{
     font-style: normal;
